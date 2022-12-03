@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6288294276026'] //ur owner number
-global.ownername = "Krisna Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: ItzTopBridgTzy5" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
+global.vcardowner = ['62882006212045'] //ur owner number
+global.ownername = "KhaTheInvisbel" //ur owner name
+global.developer = "ItsMeRaka?" //nama lu
+global.ytname = "YT: KhaTheHard" //ur yt chanel name
+global.socialm = "https://instagram.com/raka.ramadhan180108" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Asia/Jakarta" //ur location
+global.location = "Jawa Tengah" //ur location
 
 //bot bomdy 
-global.owner = ['6288294276026'] //ur number
-global.ownernomer = "6288294276026" //ur number
-global.ownertag = '628871744663' //ur tag number
-global.premium = ['62871744663'] //ur premium number
-global.botname = 'KrisnaBotz Update' //ur bot name
-global.ownername = "Krisna 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "628871744663"
-global.pulsa = "628871744663"
+global.owner = ['62882006212045'] //ur number
+global.ownernomer = "62882006212045" //ur number
+global.ownertag = '62882006212045' //ur tag number
+global.premium = ['62882006212045'] //ur premium number
+global.botname = '𝙆 𝙝 𝙖 𝙖 | MD' //ur bot name
+global.ownername = "KhaTheInvisbel"
+global.linkz = "https://youtube.com/channel/KhaTheHard" //your theme url which will be displayed on whatsapp
+global.dana = "0882006212045"
+global.pulsa = "0882006212045"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Krisna Bot" //ur sticker watermark author
-global.wm = "Krisna X Jarot" //ur watermark
+global.author = "KhaTheInvisbel" //ur sticker watermark author
+global.wm = "KhaTheInvisbel X 𝙆 𝙝 𝙖 𝙖 | MD  " //ur watermark
 
 // Other
 global.sessionName = 'Session'
